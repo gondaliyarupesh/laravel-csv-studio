@@ -4,3 +4,4 @@
 .env
 .env.backup
 composer.lock
+.antigravitycli
